@@ -4,4 +4,5 @@ exploring matrices with a spinning cube in C, inspired by a YouTube video made b
 
 ## Original Source
 
-[key]: https://www.youtube.com/watch?v=p09i_hoFdd0
+<https://www.youtube.com/watch?v=p09i_hoFdd0>
+
