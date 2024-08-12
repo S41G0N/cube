@@ -1,10 +1,8 @@
-Here's an updated README incorporating the new Makefile approach:
-
 # Spinning Cube
 
 This project explores matrix operations through the visualization of a spinning cube in C. It's inspired by and forked from a YouTube video by Servet Gulnaroglu. The primary goal of this project is to serve as a personal learning exercise to understand the implementation of rotation matrices.
 
-![Spinning Cube Demo](img/demo.png)
+![Spinning Cube Demo](img/demo.gif)
 
 ## Original Source
 The original inspiration for this project comes from:
